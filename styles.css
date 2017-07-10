@@ -39,4 +39,6 @@ div.WordSection1
 
  /* List Definitions */
 ol, ul
-	{margin-bottom:0in;}
+	{margin-bottom:0in;
+	font-style:italic;
+	}
